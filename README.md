@@ -201,4 +201,4 @@ This repository serves as the official landing page for Etherlords. The software
 **Get the most recent version of Etherlords today!**
 
 ---
-**Last updated:** 2026-11-06 13:28:56 UTC
+**Last updated:** 2026-11-06 20:10:38 UTC
